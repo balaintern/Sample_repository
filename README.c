@@ -1,2 +1,2 @@
 # Sample_repository
-Hi
+# include<stdio.h>
